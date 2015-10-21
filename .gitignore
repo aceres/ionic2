@@ -1,0 +1,7 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+cutePuppyPics/node_modules/
+cutePuppyPics/platforms/
+cutePuppyPics/plugins/
+.idea
